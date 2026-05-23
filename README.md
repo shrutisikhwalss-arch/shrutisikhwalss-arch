@@ -5,14 +5,14 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/shrutisikhwalss-arch">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+I'm+Shruti+%F0%9F%91%8B;Student+%7C+Learning+%7C+Creating+%E2%9C%A8;Python+%F0%9F%90%8D+%26+JavaScript+%E2%9A%A1+Enthusiast;Building+AI+%26+Data+apps+that+matter+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95%E2%9E%9F%F0%9F%92%BB" alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+I'm+Shruti;Student+%7C+Learning+%7C+Creating;Python+%26+JavaScript+Enthusiast;Building+AI+%26+Data+apps;Turning+ideas+into+working+code" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
 <!-- Badges Row -->
 <a href="https://www.linkedin.com/in/shruti-sikhwal">
-  <img src="https://img.shields.io/badge/LinkedIn-Shruti%20Sikhwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/LinkedIn-Shruti%20Sikhwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=shrutisikhwalss-arch&label=Profile%20Views&color=c084fc&style=for-the-badge" alt="Profile Views"/>
@@ -25,21 +25,21 @@
 
 <img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 🌸 About Me
+## About Me
 
-- 🎓 **Student** passionate about tech & innovation
-- 🤖 Building projects at the intersection of **AI, Data & Web**
-- 🌱 Currently exploring **Machine Learning & Full-Stack Dev**
-- 💡 I love turning real-world problems into **working solutions**
-- 🎨 Believer that **good design + good code = great product**
-- 💬 Ask me about **Python, Streamlit, Computer Vision, or JS**
-- ⚡ Fun fact: I built an AI wealth manager *and* a cute calculator 🧮
+- **Student** passionate about tech & innovation
+- Building projects at the intersection of **AI, Data & Web**
+- Currently exploring **Machine Learning & Full-Stack Dev**
+- I love turning real-world problems into **working solutions**
+- Believer that **good design + good code = great product**
+- Ask me about **Python, Streamlit, Computer Vision, or JS**
+- Fun fact: I built an AI wealth manager *and* a cute calculator 
 
 <br clear="right"/>
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -50,18 +50,18 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-**💻 Languages**
+** Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**📦 Frameworks & Libraries**
+** Frameworks & Libraries**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -70,7 +70,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**🔧 Tools & Platforms**
+** Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -81,13 +81,13 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-> *Every project here started with a problem I wanted to solve 💜*
+> *Every project here started with a problem I wanted to solve *
 
 ---
 
-### 💰 [ArthAI — AI Wealth Manager](https://github.com/shrutisikhwalss-arch/ArthAI)
+### [ArthAI — AI Wealth Manager](https://github.com/shrutisikhwalss-arch/ArthAI)
 
 > *Take control of your finances with the power of AI*
 
@@ -102,7 +102,7 @@ A **full-stack AI-powered wealth management application** that brings intelligen
 
 ---
 
-### 👤 [Face-ID — Real-Time Face Recognition](https://github.com/shrutisikhwalss-arch/Face-ID)
+### [Face-ID — Real-Time Face Recognition](https://github.com/shrutisikhwalss-arch/Face-ID)
 
 > *Your face is your password*
 
@@ -117,7 +117,7 @@ A **Python-based face recognition web app** — register via webcam or uploaded 
 
 ---
 
-### 🎬 [Movie Recommendation Dashboard](https://github.com/shrutisikhwalss-arch/movie-recommendation-dashboard)
+### [Movie Recommendation Dashboard](https://github.com/shrutisikhwalss-arch/movie-recommendation-dashboard)
 
 > *Never run out of great films again*
 
@@ -132,7 +132,7 @@ Interactive movie app with **genre & rating filters**, similar movie suggestions
 
 ---
 
-### 🎨 [Image Color Compression](https://github.com/shrutisikhwalss-arch/image-color-compression)
+### [Image Color Compression](https://github.com/shrutisikhwalss-arch/image-color-compression)
 
 > *Where math makes images beautiful*
 
@@ -147,7 +147,7 @@ Compress images with **KMeans color quantization** — reduce the number of colo
 
 ---
 
-### 🏥 [Hospital Dashboard](https://github.com/shrutisikhwalss-arch/hospital-dashboard)
+### [Hospital Dashboard](https://github.com/shrutisikhwalss-arch/hospital-dashboard)
 
 > *Data-driven decisions for better healthcare*
 
@@ -162,21 +162,21 @@ Interactive dashboard visualizing **patients, revenue, doctors & occupancy** —
 
 ---
 
-### 🧮 [Calcy — Cute Calculator](https://github.com/shrutisikhwalss-arch/Calcy)
+### [Calcy — Cute Calculator](https://github.com/shrutisikhwalss-arch/Calcy)
 
 > *Because even simple tools deserve good design*
 
 <!-- PROJECT IMAGE PLACEHOLDER -->
 <!-- ![Calcy Screenshot](./assets/calcy.png) -->
 
-A beautifully designed **JavaScript calculator** that proves great UX matters — even for the humblest of apps. ✨
+A beautifully designed **JavaScript calculator** that proves great UX matters — even for the humblest of apps. 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-pink?style=flat-square)
 
 ---
 
-## 📊 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <div align="center">
 
@@ -199,7 +199,7 @@ A beautifully designed **JavaScript calculator** that proves great UX matters �
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -209,24 +209,24 @@ A beautifully designed **JavaScript calculator** that proves great UX matters �
 
 ---
 
-## 🌱 What I'm Working On
+## What I'm Working On
 
 ```
-🔍  Deepening skills in Machine Learning & AI
-📊  Mastering Data Science workflows
-🌐  Exploring Full-Stack Development
-💡  Building projects that solve real problems
-📖  Learning every single day 🚀
+ Deepening skills in Machine Learning & AI
+ Mastering Data Science workflows
+ Exploring Full-Stack Development
+ Building projects that solve real problems
+ Learning every single day 
 ```
 
 ---
 
-## 💬 A Line I Live By
+## A Line I Live By
 
 <div align="center">
 
 > *"Every expert was once a beginner. Every pro was once an amateur."*
-> *Keep building. Keep learning. Keep going.* 💜
+> *Keep building. Keep learning. Keep going.* 
 
 </div>
 
@@ -234,7 +234,7 @@ A beautifully designed **JavaScript calculator** that proves great UX matters �
 
 <div align="center">
 
-**Made with 💜 by Shruti Sikhwal**
+**Made with by Shruti Sikhwal**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
 
